@@ -35,8 +35,13 @@ To see saved cards, just click the heart button
 
 ![](https://media0.giphy.com/media/GpgH7ct8akbd1fqE4V/giphy.gif)
 
+App comes in both lightmode and darkmode
+
+![](https://ibb.co/hZBKZ95)  |  ![](https://ibb.co/wQbwGTY)
+
 ## Credits
 
 Rive animations I used:
-![Heart](https://rive.app/a/shakle/files/flare/love-heart)
-![Remove](https://rive.app/a/marssal/files/flare/delete-red-1)
+
+[Heart](https://rive.app/a/shakle/files/flare/love-heart)
+[Remove](https://rive.app/a/marssal/files/flare/delete-red-1)
