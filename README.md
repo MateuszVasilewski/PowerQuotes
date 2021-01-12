@@ -37,7 +37,7 @@ To see saved cards, just click the heart button
 
 App comes in both lightmode and darkmode
 
-<img src="https://i.ibb.co/VQgvQ9y/light.jpg" width="200" height="400"> | <img src="https://i.ibb.co/VChQnd3/dark.jpg" width="200" height="400">
+<img src="https://i.ibb.co/VQgvQ9y/light.jpg" width="300" height="600">  <img src="https://i.ibb.co/VChQnd3/dark.jpg" width="300" height="600">
 
 ## Credits
 
