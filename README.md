@@ -1,16 +1,13 @@
-# power_quotes
+# Power quotes
 
-App displaying motivational quotes
+App displaying motivational quotes, where you can save your favorite quotes and add new ones
+to the existing pool
 
-## Getting Started
+## Main features
 
-This project is a starting point for a Flutter application.
+Quotes are displayed as tinder cards
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](https://giphy.com/gifs/DCcatKzzF3blvXGhAH)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
