@@ -3,6 +3,12 @@
 App displaying motivational quotes, where you can save your favorite quotes and add new ones
 to the existing pool
 
+## Stack
+
+I used BLoC library for state management, moor for database and rive for these top animations.
+I also used lint for code check, launcher_icons to simplify icons generation
+and a few utility libraries like build_runner.
+
 ## Main features
 
 Quotes are displayed as tinder cards:
