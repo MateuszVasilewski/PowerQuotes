@@ -5,9 +5,32 @@ to the existing pool
 
 ## Main features
 
-Quotes are displayed as tinder cards
-
-A few resources to get you started if this is your first Flutter project:
+Quotes are displayed as tinder cards:
 
 ![](https://media0.giphy.com/media/DCcatKzzF3blvXGhAH/giphy.gif)
 
+You can remove cards
+
+![](https://media4.giphy.com/media/av0kMiPuaxP6NcxlI9/giphy.gif)
+
+Or you can save them
+
+![](https://media3.giphy.com/media/8i9oYFeDC2gelvlGxy/giphy.gif)
+
+Do this before time runs out, otherwise they will be removed
+
+![](https://media3.giphy.com/media/5C0va6SvEw1ZyL7cIJ/giphy.gif)
+
+You can also add new values to existing cards generated randomly
+
+![](https://media2.giphy.com/media/UJxO5AMRFOi81bvl2r/giphy.gif)
+
+To see saved cards, just click the heart button
+
+![](https://media0.giphy.com/media/GpgH7ct8akbd1fqE4V/giphy.gif)
+
+## Credits
+
+Rive animations I used:
+![Heart](https://rive.app/a/shakle/files/flare/love-heart)
+![Remove](https://rive.app/a/marssal/files/flare/delete-red-1)
