@@ -37,7 +37,7 @@ To see saved cards, just click the heart button
 
 App comes in both lightmode and darkmode
 
-![](https://ibb.co/hZBKZ95)  |  ![](https://ibb.co/wQbwGTY)
+![](https://ibb.co/hZBKZ95) ![](https://ibb.co/wQbwGTY)
 
 ## Credits
 
