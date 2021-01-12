@@ -9,5 +9,5 @@ Quotes are displayed as tinder cards
 
 A few resources to get you started if this is your first Flutter project:
 
-![](https://giphy.com/gifs/DCcatKzzF3blvXGhAH)
+![](https://media0.giphy.com/media/DCcatKzzF3blvXGhAH/giphy.gif)
 
